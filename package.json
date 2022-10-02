@@ -1,0 +1,19 @@
+{
+  "name": "worldcenter8",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "pgslot online สล็อตออนไลน์ เว็บตรง PG SLOT ufaworlds โปรโมชั่นจุใจมากกว่าที่ใด ฝากถอนระบบ ออ โต้ 24 ชั่วโมง ✓",
+  "keywords": [
+    "pgslot",
+    "พีจีสล็อตออนไลน์",
+    "ufaworlds",
+    "SLOT",
+    "slot xo",
+    "ฝาก100 รับ130"
+  ],
+  "repository": "https://github.com/Phuthinat/worldcenter8",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
